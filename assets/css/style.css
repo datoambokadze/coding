@@ -92,7 +92,9 @@
 
 }
 
-
+*{
+  font-family: 'Noto Sans Georgian', sans-serif;;
+}
 
 
 
@@ -139,7 +141,7 @@ button { cursor: pointer; }
 ion-icon { pointer-events: none; }
 
 html {
-  font-family: var(--ff-open-sans);
+  font-family: 'Noto Sans Georgian', sans-serif;;
   font-size: 10px;
   scroll-behavior: smooth;
 }
@@ -184,6 +186,7 @@ body.active { overflow-y: hidden; }
 .h1 {
   font-size: var(--fs-1);
   font-weight: var(--fw-800);
+  font-family: 'Noto Sans Georgian', sans-serif;;
 }
 
 .h2 { font-size: var(--fs-2); }
