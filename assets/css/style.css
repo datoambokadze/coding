@@ -430,6 +430,10 @@ body.active { overflow-y: hidden; }
   border-radius: var(--radius-circle);
   margin-block-end: 20px;
 }
+.promo-card .card-icon img{
+  position: relative;
+  width: 40px;
+}
 
 .promo-card .card-icon ion-icon { --ionicon-stroke-width: 50px; }
 
